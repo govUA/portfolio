@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'eukraine';
+    src: url('../public/eukraine.ttf') format('truetype');
+}
+body {
+	background-color: #eeffef;
+	display: flex;
+	flex-direction: column;
+	font-family: 'eukraine', helvetica;
+}
+.title {
+	margin: 0;
+}
+h2 {
+	font-size: 1.5rem;
+	margin: 0;
+}
+h5 {
+	font-size: 0.5rem;
+	margin: 0;
+}
+h6 {
+	font-size: 0.5rem;
+	margin-top: 0;
+}
+p {
+	font-size: 0.5rem;
+	margin: 0;
+}
+a {
+	color: #000;
+}
+.infobox {
+	width: 85vw;
+	margin: auto;
+	margin-top: 2.5vh;
+	padding: 1%;
+	background-color: #fff;
+	border: 0.25vh solid #e5e5e5;
+	border-radius: 5%;
+}
+.photo{
+	display: flex;
+	align-items: center;
+}
+.info {
+	display: flex;
+	flex-direction: row;
+}
+.column {
+	width: 50%;
+	margin: 0;
+}
+@media screen and (min-width: 900px) {
+	.line {
+		display: flex;
+		flex-direction: row;
+	}
+	.infobox {
+		width: 30vw;
+		margin: auto;
+		margin-right: 5vw;
+	}
+}
