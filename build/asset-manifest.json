@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/public/static/css/main.d3bdd839.css",
+    "main.js": "/portfolio/public/static/js/main.0f92a637.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/public/static/js/453.1407b060.chunk.js",
+    "static/media/eukraine.ttf": "/portfolio/public/static/media/eukraine.52d5a2a13417b1b548a7.ttf",
+    "static/media/photo.jpg": "/portfolio/public/static/media/photo.a52a7dd27044846cf24e.jpg",
+    "index.html": "/portfolio/public/index.html",
+    "main.d3bdd839.css.map": "/portfolio/public/static/css/main.d3bdd839.css.map",
+    "main.0f92a637.js.map": "/portfolio/public/static/js/main.0f92a637.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/public/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3bdd839.css",
+    "static/js/main.0f92a637.js"
+  ]
+}
